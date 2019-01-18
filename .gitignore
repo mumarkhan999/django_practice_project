@@ -1,0 +1,6 @@
+django_venv
+django_venv1.11
+db.sqlite3
+migrations
+__pycache__
+.idea
